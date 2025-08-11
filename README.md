@@ -11,10 +11,10 @@ The Annual Sales Report for the online store appears to analyze various aspects 
 3)Who purchased more Hen or Homen?
 4)What are different order status in 20227
 5)List top 10 states contributingto the sales?
-6)Relation between age and gender based on number of orders.
+6)Relation between age and gender based on number of orders?
 7)Which Channel is contributing maximum to the sales?
 8)Highest selling category?
-9)Percentage of Total Orders delivered
+9)Percentage of Total Orders delivered?
 
 *Process
 
