@@ -1,5 +1,6 @@
 # Data-Analysis-Dashboard-Online-Store-
 *Project Objective
+
 The Annual Sales Report for the online store appears to analyze various aspects of sales and orders.
 
 
