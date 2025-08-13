@@ -7,13 +7,13 @@ The Annual Sales Report for the online store appears to analyze various aspects 
 
 *Questions (KPIs)
 
-1)Compare the sales and orders using single chart.
+1)Compare the sales and orders using single chart?
 
 2)Which month got the highest sales and orders?
 
-3)Who purchased more Hen or Homen?
+3)Who purchased more Men or Women?
 
-4)What are different order status in 20227
+4)What are different order status in 2022?
 
 5)List top 10 states contributingto the sales?
 
